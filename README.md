@@ -1,1 +1,1 @@
-# c23-project
+# project-c23-template
